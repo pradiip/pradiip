@@ -6,6 +6,6 @@ try:
     print("Negative")
   else:
         print("Zero")
-except valueError:
+except ValueError:
   print("non numericalvalue")
         
